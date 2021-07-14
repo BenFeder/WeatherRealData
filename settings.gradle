@@ -1,0 +1,2 @@
+rootProject.name = "WeatherRealData"
+include ':app'
